@@ -1,0 +1,103 @@
+.pazzo{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+}
+.logo img{
+    width: 200px;
+    height: 199px;
+    border: 1px solid green;
+}
+.logout{
+margin-left: 1350px;
+margin-top: -120px;
+}
+.logout button{
+    background-color: black;
+    padding: 15px;
+}
+
+.logout button a{
+
+    color: white;
+    font-size: 15PX;
+    text-decoration: none;
+}
+.logout H6{
+    color: wheat;
+    margin-top: -80px;
+    margin-left: 100px;
+    font-size: 100PX;
+}
+.title h1{
+    margin-top: -100px;
+    font-size: large;
+    padding: 20px;
+    margin-left: 200px;
+}
+.title {
+    margin-top: -200px;
+    font-size: xx-large;
+    margin-left: 200px;
+}
+.link ul li {
+    display: inline-flex;
+    padding: 20px;
+}
+.link{
+    margin-left: 200px;
+}
+.link ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20PX;
+    font-weight: bolder;
+}
+#odg{
+    background-color: greenyellow;
+    color: white;
+}
+.search {
+    margin-top: -70px;
+    font-size: xx-large;
+    margin-left: 900px;
+}
+.search input{
+    font-size: xx-large;
+    outline: none;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    color: green;
+}
+.search a{
+    text-decoration: none;
+}
+.content p{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-left: 10%;
+}
+.bushali{
+    margin-top: -20%;
+    margin-left: -3%;
+    width: 400px;
+    height: 330px;
+}
+.juno{
+    width: 400px;
+    height:330px;
+    margin-top: 0px;
+}
+.info{
+    margin-top: -79%;
+    margin-left: 53%;
+    width: 700px;
+    height: 385px;
+    border:  1px solid white;
+}
+.end{
+    width: 100%;
+    background: green;
+    height: 40px;
+}
+

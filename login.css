@@ -1,0 +1,30 @@
+fieldset{
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+    background-color: darkgray;
+    border-radius: 10px;
+    margin-top: 200PX;
+    margin-left: 40%;
+}
+input{
+    width: 230px;
+    outline: none;
+}
+.login{
+    width: 105px;
+    margin-left: 70px;
+    height: 45px;
+    border: 1PX solid darkgray;
+    border-radius: 10PX;
+    background-color: darkcyan;
+}
+p{
+    font-size: xx-large;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+span{
+    color: darkcyan;
+}
